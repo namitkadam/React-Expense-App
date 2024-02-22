@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Expense-App/static/css/main.a761d984.css",
-    "main.js": "/Expense-App/static/js/main.dd62762e.js",
-    "static/js/453.25bae294.chunk.js": "/Expense-App/static/js/453.25bae294.chunk.js",
-    "index.html": "/Expense-App/index.html",
-    "main.a761d984.css.map": "/Expense-App/static/css/main.a761d984.css.map",
-    "main.dd62762e.js.map": "/Expense-App/static/js/main.dd62762e.js.map",
-    "453.25bae294.chunk.js.map": "/Expense-App/static/js/453.25bae294.chunk.js.map"
+    "main.css": "/React-Expense-App/static/css/main.a761d984.css",
+    "main.js": "/React-Expense-App/static/js/main.2e37fe08.js",
+    "static/js/453.25bae294.chunk.js": "/React-Expense-App/static/js/453.25bae294.chunk.js",
+    "index.html": "/React-Expense-App/index.html",
+    "main.a761d984.css.map": "/React-Expense-App/static/css/main.a761d984.css.map",
+    "main.2e37fe08.js.map": "/React-Expense-App/static/js/main.2e37fe08.js.map",
+    "453.25bae294.chunk.js.map": "/React-Expense-App/static/js/453.25bae294.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a761d984.css",
-    "static/js/main.dd62762e.js"
+    "static/js/main.2e37fe08.js"
   ]
 }
