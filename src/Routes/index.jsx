@@ -6,12 +6,12 @@ import EditExpense from "../pages/EditExpense";
 
 export const PublicRouter = createBrowserRouter([
   {
-    path: "/",
+    path: "/Expense-App",
     element: <RootLayout />,
     children: [
       { index: true, element: <Home /> },
-      { path: "/create-exp", element: <CreateExp /> },
-      { path: "/edit-exp/:id", element: <EditExpense /> },
+      { path: "/Expense-App/create-exp", element: <CreateExp /> },
+      { path: "/Expense-App/edit-exp/:id", element: <EditExpense /> },
     ],
   },
 ]);

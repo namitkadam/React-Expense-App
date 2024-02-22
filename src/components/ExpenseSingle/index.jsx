@@ -65,7 +65,7 @@ export default function ExpenseSingle(prop) {
           <div className="flex justify-center">
             <div className="p-3 px-5 flex items-center max-sm:p-1 max-sm:flex-col justify-around">
               <Link
-                to={`/edit-exp/${prop.Id}`}
+                to={`/Expense-App/edit-exp/${prop.Id}`}
                 className="mr-3 text-sm bg-blue-500 hover:bg-blue-700 text-white py-1 px-2 rounded focus:outline-none focus:shadow-outline"
               >
                 Edit

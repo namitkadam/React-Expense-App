@@ -20,7 +20,7 @@ function Home() {
 
   return (
     <>
-      <div className="warpper flex justify-between gap-4 border-y-2">
+      <div className="warpper flex justify-between gap-4 border-y-2 bg">
         <MoenyTabHader
           title={"Income"}
           value={income}
